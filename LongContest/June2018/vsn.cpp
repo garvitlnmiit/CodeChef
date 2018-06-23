@@ -68,9 +68,6 @@ int main(){
         Y=2*(rad*rad*c5-(c5*c1)+(c2*c3));
         Z=(rad*rad*c4-(c1*c4)+(c2*c2));
 
-
-
-
         long double t,t1,t2;
 
         if(X==0){
